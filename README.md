@@ -24,7 +24,7 @@ This project is a **YouTube clone** that allows users to **upload videos**, **tr
   - [Docker](https://www.docker.com/)
   - [FFmpeg](https://ffmpeg.org/) (for video transcoding)
   - [Firebase Functions](https://firebase.google.com/docs/functions)
-  - [Google Cloud Run](https://cloud.google.com/run)
+  - [Google Cloud Platform](https://cloud.google.com/run)
 
 - **Authentication**
   - [Firebase Auth](https://firebase.google.com/docs/auth)
